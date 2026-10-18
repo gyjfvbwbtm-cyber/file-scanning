@@ -34,8 +34,8 @@ app.get('/', (req, res) => {
     <!-- Open Graph Meta Tags for Discord & Social Media Previews -->
     <meta property="og:title" content="File scanning - Secure File Analysis">
     <meta property="og:description" content="Advanced security scanner to detect malware, suspicious scripts, and vulnerabilities instantly.">
-    <meta property="og:image" content="https://i.imgur.com/your-image-link.png"> <!-- Replace with your image link -->
-    <meta property="og:url" content="https://your-domain.com">
+    <meta property="og:image" content="https://i.imgur.com/your-image-link.png">
+    <meta property="og:url" content="https://file-scanning.onrender.com">
     <meta name="twitter:card" content="summary_large_image">
 
     <script src="https://cdn.tailwindcss.com"></script>
