@@ -113,9 +113,9 @@ app.get('/', (req, res) => {
         </div>
     </main>
 
-    <footer class="text-center text-xs text-gray-500 py-6">
-        File scanning System &copy; 2026 - Secure Cloud Analysis Tool
-    </footer>
+<footer class="text-center text-xs text-gray-500 py-6">
+    © 2026 File scanning | Developed by KHALID ALFARES
+</footer>
 
     <script>
         const dropZone = document.getElementById('drop-zone');
