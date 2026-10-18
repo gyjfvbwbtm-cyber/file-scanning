@@ -34,7 +34,7 @@ app.get('/', (req, res) => {
     <!-- Open Graph Meta Tags for Discord & Social Media Previews -->
     <meta property="og:title" content="File scanning - Secure File Analysis">
     <meta property="og:description" content="Advanced security scanner to detect malware, suspicious scripts, and vulnerabilities instantly.">
-    <meta property="og:image" content="https://i.imgur.com/your-image-link.png">
+    <meta property="og:image" content="https://cdn.discordapp.com/attachments/1555568856607621171/1561069248950968332/IMG_1703?ex=6ad50288&is=6ad3b108&hm=9d5e03a9fbc92cd9ae0bf01d00b8e852bd3596f9fc9404b6c6b25f671faa11c9&.png?ex=6ad50288&is=6ad3b108&hm=d1f6d9dcfe0e1a1aba0f4095518f97f1a862bd30a03e7be2ed92d292f6cc4833&">
     <meta property="og:url" content="https://file-scanning.onrender.com">
     <meta name="twitter:card" content="summary_large_image">
 
